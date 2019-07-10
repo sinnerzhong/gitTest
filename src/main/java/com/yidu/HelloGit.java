@@ -7,5 +7,9 @@ public class HelloGit {
 		//张三添加的一些代码
 		System.out.print("张三加了一些代码");
 	
+		//在hotfix下修复bug
+		System.out.println("在hotfix下修复bug.....");
+		
+		
 	}
 }
